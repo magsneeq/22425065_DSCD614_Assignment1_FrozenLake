@@ -1,7 +1,8 @@
 # Frozen Lake from First Principles Using Q-Learning
 
-DSCD 614 - Reinforcement Learning, Programming Assignment 1
-University of Ghana, Department of Computer Science
+DSCD 614 - Reinforcement Learning
+Name: Margaret Naa Dei Neequaye
+ID: 22425065
 
 A complete, dependency-free implementation of the Frozen Lake environment and
 a tabular Q-Learning agent. No Gymnasium, OpenAI Gym, Stable Baselines, or
