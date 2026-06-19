@@ -1,0 +1,11 @@
+Best configuration: baseline (alpha=0.1, gamma=0.99, epsilon_decay=0.9995)
+Final training success rate (last 500 episodes): 99.60%
+
+↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓
+→ → → → ↓ ↓ ↓ ↓
+↑ ↑ ↑ H → → ↓ ↓
+→ ↑ ↑ H → → → ↓
+↑ ↑ ↑ H → → → ↓
+↑ H H → → ↑ H ↓
+↓ H → ↑ H ↑ H ↓
+→ → ↑ H → ↑ → G
